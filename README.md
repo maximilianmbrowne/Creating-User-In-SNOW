@@ -1,3 +1,7 @@
+# Watch the Video of me Creating a User in ServiceNow HERE:
+
+https://www.loom.com/share/9bb6a8790668479aa4dd86c08ab3efc5
+
 # Creating a User in ServiceNow
 
 This guide outlines the steps to create a new user account in ServiceNow and configure their initial login settings.
@@ -48,3 +52,4 @@ You have successfully:
 - Enabled password reset for secure first-time login  
 
 The user account is now ready for final onboarding or role assignment.
+
